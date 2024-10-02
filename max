@@ -1,0 +1,40 @@
+<div class="passo" id="passo-1">
+             <img src="cenario-passo1.png" alt="">
+             <p>Ao acordar, você se vê em um sofa. No entanto, ao olhar em volta, percebe que está em um ambiente diferente do seu quarto. Então, ao olhar com mais atenção na escuridão, você percebe que está em um tipo de quarto meio mal acabado. Você decide levantar e tentar sair, mas percebe que tem uma escolha difícil a fazer.</p>
+             <button class="btn-proximo" data-proximo="3">Buraco no chão</button>
+             <button class="btn-proximo" data-proximo="4">Porta</button>
+         </div> 
+
+         <div class="passo" id="passo-3">
+             <p>Ao descer pelo buraco, você percebe que está em uma sala. No entanto, nesta sala, você vê vários objetos curiosos e também uma porta.</p>
+             <button class="btn-proximo" data-proximo="5">Porta</button>
+             <button class="btn-proximo" data-proximo="6">Objeto</button>
+          </div>
+
+          <div class="passo" id="passo-2">
+            <p>Em Pernambuco, você visita a histórica cidade de Olinda. Na carta, uma das pistas indica que para localizar a entrada para a cidade perdida você deve procurar a próxima pista em um dos pontos turísticos da cidade. Por qual você começa?</p>
+            <button class="btn-proximo" data-proximo="7">Investigar as igrejas antigas</button>
+            <button class="btn-proximo" data-proximo="8">Explorar as praias próximas</button>
+        </div>
+
+
+
+
+
+
+
+
+        <div class="passo ativo" id="passo-0"></div>
+            <img src="cenario-passo0.png" alt="">
+            <p>Seja bem vindo ao jogo de Explorar a casa abandonada.</p>
+            <button class="btn-proximo" data-proximo="1">Iniciar</button>
+            <button class="btn-proximo" data-proximo="2">créditos</button>
+
+
+
+            <div class="passo" id="passo-5"></div>
+            <img src="cenario-passo4.png" alt="">
+             <p>Ao tentar abrir a porta, você percebe que está trancada. Mesmo tentando várias vezes, você não consegue abri-la.</p>
+             <button class="btn-proximo" data-proximo="10">arompar</button>
+             <button class="btn-proximo" data-proximo="11">tentanr encontrar a chave</button>
+          </div>
